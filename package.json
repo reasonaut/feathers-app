@@ -47,7 +47,7 @@
     "winston": "^2.3.1"
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
+    "eslint": "^6.6.0",
     "mocha": "^3.3.0",
     "request": "^2.81.0",
     "request-promise": "^4.2.0"
